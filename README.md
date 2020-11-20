@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!-- ![](https://komarev.com/ghpvc/?username=Ishaan-11&color=green) -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&exclude_repo=Sign-e&layout=compact&theme=buefy)
