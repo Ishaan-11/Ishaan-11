@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&exclude_repo=Sign-e&layout=compact)
+
+
+
+
 <!--
 **Ishaan-11/Ishaan-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
