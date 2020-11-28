@@ -1,24 +1,34 @@
-### Hi there 👋
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!-- ![](https://komarev.com/ghpvc/?username=Ishaan-11&color=green) -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy)
+#### Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/{Ishaan-11}/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&exclude_repo=Sign-e&layout=compact&theme=buefy)
+<details>
+    <summary><b>⚡GitHub Stats</b></summary>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy" alt="Ishaan Sharma | Stats" />
+</details>
+
+<details>
+    <summary><b>💻 Languages</b></summary>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&exclude_repo=Sign-e&layout=compact&theme=buefy" alt="Ishaan Sharma | Top Languages" />
+</details>
+
+<details>
+    <summary><b>📫Connect with me</b></summary>
+    <br>
+  <div align="center">
+    
+[![dev.to badge](https://img.shields.io/badge/-ishaan11-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishaan11/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishaansharma1998@gmail.com)](mailto:ishaansharma1998@gmail.com)
+[![GitHub Ishaan Sharma](https://img.shields.io/github/followers/Ishaan-11?label=Follow&style=social)](https://github.com/Ishaan-11)
+
+  </div>
+</details>
 
 
+<!-- <p align="center">
+<img src="https://metrics.lecoq.io/Ishaan-11" alt="Github Metrics">
+  <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan-11" alt="Github Streak Stats">
+</p> -->
 
-
-<!--
-**Ishaan-11/Ishaan-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
