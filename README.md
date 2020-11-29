@@ -19,7 +19,6 @@
   <div align="center">
     
 [![dev.to badge](https://img.shields.io/badge/-ishaan11-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishaan11/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishaansharma1998@gmail.com)](mailto:ishaansharma1998@gmail.com)
 [![GitHub Ishaan Sharma](https://img.shields.io/github/followers/Ishaan-11?label=Follow&style=social)](https://github.com/Ishaan-11)
 
   </div>
