@@ -1,11 +1,13 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-#### Visitors Count 👇
-![Visitor Count](https://profile-counter.glitch.me/{Ishaan-11}/count.svg)
+<details open>
+    <summary><b>👀 Views</b></summary>
+    <p align="center"> <img src="https://profile-counter.glitch.me/{Ishaan-11}/count.svg" alt="Ishaan Sharma | Views" /> </p>
+</details>
 
 <details open>
     <summary><b>💻 Languages</b></summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&&langs_count=10&layout=compact&theme=buefy" alt="Ishaan Sharma | Top Languages" /> </p>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-11&langs_count=10&layout=compact&theme=buefy" alt="Ishaan Sharma | Top Languages" /> </p>
 </details>
 
 <details open>
@@ -18,7 +20,7 @@
     <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ishaan-11&bg_color=ffffff&color=7957d5&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Ishaan Sharma | Graph" width="80%" /> </p>
 </details>
 
-<details>
+<!-- <details>
     <summary><b>📫 Connect with me</b></summary>
     <br>
   <div align="center">
@@ -27,7 +29,7 @@
 [![GitHub Ishaan Sharma](https://img.shields.io/github/followers/Ishaan-11?label=Follow&style=social)](https://github.com/Ishaan-11)
 
   </div>
-</details>
+</details> -->
 
 <!-- <p align="center">
 <img src="https://metrics.lecoq.io/Ishaan-11" alt="Github Metrics">
