@@ -12,7 +12,12 @@
 
 <details open>
     <summary><b>⚡ GitHub Stats</b></summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy" alt="Ishaan Sharma | Stats" /> </p>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy" alt="Ishaan Sharma | Stats" width="45%"/> </p>
+</details>
+
+<details open>
+    <summary><b>🔥 GitHub Streak</b></summary>
+    <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan-11&ring=8C59DD&fire=FF5E21FF&currStreakLabel=7957D5FF" alt="Ishaan Sharma | Streak" /> </p>
 </details>
 
 <details open>
