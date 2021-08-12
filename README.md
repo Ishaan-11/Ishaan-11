@@ -12,7 +12,7 @@
 
 <details open>
     <summary><b>⚡ GitHub Stats</b></summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy" alt="Ishaan Sharma | Stats" width="45%"/> </p>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishaan-11&count_private=true&show_icons=true&theme=buefy" alt="Ishaan Sharma | Stats" width="47%"/> </p>
 </details>
 
 <details open>
